@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎮 Passionate Student Pursuing Game Development 🕹️
 
-Hello! I'm Lorenzo, an enthusiastic student in Videogame Desing and Development with a burning passion for game development. My goal is to become a skilled and creative game developer, contributing to the exciting world of crafting interactive and memorable experiences.
+Hello! I'm Gonzalo, an enthusiastic student in Videogame Desing and Development with a burning passion for game development. My goal is to become a skilled and creative game developer, contributing to the exciting world of crafting interactive and memorable experiences.
 
 🚀 My Areas of Interest and Skills:
 

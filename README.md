@@ -1,4 +1,3 @@
-Absolutely! Here's the revised version in English:
 
 # 👋 About Me:
 
@@ -51,5 +50,3 @@ I'm thrilled to embark on this adventure and eager to connect with fellow game d
 
 ---
 [![Profile Views](https://visitcount.itsvg.in/api?id=Garcai44&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Crafted with ❤️ by ChatGPT -->
